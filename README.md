@@ -91,7 +91,7 @@ The model covers **FY2016 to FY2025 historical data** with forward projections u
 ### Valuation
 
 - **WACC:** 15.48%
-- - **Intrinsic Value (DCF):** ₹284.71
+- **Intrinsic Value (DCF):** ₹284.71
 - **Current Market Price:** ₹2,352
 - **Verdict:** Overvalued (trading at ~726% premium to intrinsic value)
 
